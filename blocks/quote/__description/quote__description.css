@@ -1,0 +1,7 @@
+.quote__description {
+  padding-top: 120px;
+  margin-left: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

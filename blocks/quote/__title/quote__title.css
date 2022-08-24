@@ -1,0 +1,11 @@
+.quote__title {
+  margin: 0;
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 129%;
+  letter-spacing: -0.5px;
+  color: #151515;
+  max-width: 470px;
+}

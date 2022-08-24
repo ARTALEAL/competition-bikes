@@ -24,3 +24,12 @@
 @import url(../blocks/types/__image/types__image.css);
 @import url(../blocks/types/__bike-fix-container/types__bike-fix-container.css);
 @import url(../blocks/types/__bike-fix/types__bike-fix.css);
+
+/*qoute*/
+@import url(../blocks/quote/quote.css);
+@import url(../blocks/quote/__image-container/quote__image-container.css);
+@import url(../blocks/quote/__image/qoute__image.css);
+@import url(../blocks/quote/__description/quote__description.css);
+@import url(../blocks/quote/__title/quote__title.css);
+@import url(../blocks/quote/__author/quote__author.css);
+@import url(../blocks/quote/__author-job/quote__author-job.css);
