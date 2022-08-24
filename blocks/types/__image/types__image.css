@@ -1,4 +1,10 @@
 .types__image {
-  max-width: 610px;
-  height: auto;
+  /* max-width: 610px;
+  height: auto; */
+  margin: 0;
+  max-height: 836px;
+  position: absolute;
+  padding: 0 0 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
 }

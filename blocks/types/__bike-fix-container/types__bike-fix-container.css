@@ -1,5 +1,5 @@
 .types__bike-fix-container {
-  display: flex;
+  /* display: flex;
   justify-content: center;
   max-width: 440px;
   width: 100%;
@@ -10,6 +10,15 @@
   border-radius: 20px;
 
   position: sticky;
-  top: 0;
-
+  top: 0; */
+  background-color: #F4F4F4;
+  border-radius: 20px;
+  width: auto;
+  height: auto;
+  box-shadow: -20px 60px 220px rgb(0 0 0 / 20%);
+  position: -webkit-sticky;
+  position: sticky;
+  top: 54px;
+  margin: 327px auto 79px 0;
+  display: inline-block;
 }
