@@ -1,0 +1,6 @@
+.types__image-container {
+  margin-top: 20px;
+  grid-column: 2;
+  grid-row: span 3;
+
+}

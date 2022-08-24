@@ -12,9 +12,11 @@
 @import url(../blocks/types/types.css);
 @import url(../blocks/types/__text/types__text.css);
 @import url(../blocks/types/__text-title/types__text-title.css);
+@import url(../blocks/types/__text-title-container/types__text-title-container.css);
 @import url(../blocks/types/__text-paragraph/types__text-paragraph.css);
 @import url(../blocks/types/__text-button/types__text-button.css);
 @import url(../blocks/types/__text-description/types__text-description.css);
 @import url(../blocks/types/__description-container/types__description-container.css);
 @import url(../blocks/types/__text-description-line/types__text-description-line.css);
+@import url(../blocks/types/__image-container/types__image-container.css);
 @import url(../blocks/types/__image/types__image.css);

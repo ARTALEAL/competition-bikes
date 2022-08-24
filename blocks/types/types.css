@@ -1,4 +1,6 @@
 .types {
-  display: flex;
+  display: grid;
+  grid-template-columns: 460px 610px;
+  grid-template-rows: 200px 263px 1fr;
   justify-content: space-between;
 }

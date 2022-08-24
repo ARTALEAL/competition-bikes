@@ -4,4 +4,8 @@
   max-width: calc(194px + 30px + 132px);
   justify-content: space-between;
   align-items: center;
+  grid-column: 1;
+  grid-row: 3;
+  margin-left: 120px;
+  align-items: flex-start;
 }
