@@ -2,5 +2,8 @@
   margin-top: 20px;
   grid-column: 2;
   grid-row: span 3;
-
+  height: 836px;
+  /* max-width: 610px;
+  width: 100%;
+  height: 100%; */
 }
