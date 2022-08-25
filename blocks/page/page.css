@@ -1,5 +1,13 @@
 .page {
-  max-width: 1440px;
-  background-color: #f4f4f4;
-  margin: auto;
+  width: 100%;
+  background-color: #F4F4F4;
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
 }

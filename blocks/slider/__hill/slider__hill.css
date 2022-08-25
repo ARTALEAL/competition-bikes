@@ -1,0 +1,14 @@
+.slider__hill {
+  width: 100px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 0;
+  bottom: 16px;
+  background-image: url(../../../images/slider/hill.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+

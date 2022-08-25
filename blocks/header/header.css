@@ -3,7 +3,10 @@
   width: 100%;
   min-height: 74px;
   position: fixed;
+  z-index: 2;
   top: 0;
-  z-index: 1;
+  left: 50%;
   background-color: #f4f4f4;
+  margin: 0;
+  transform: translateX(-50%);
 }

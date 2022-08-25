@@ -1,0 +1,9 @@
+.training {
+  width: 1200px;
+  padding: 150px 0 120px 0;
+  margin: 0 auto;
+  display: grid;
+  justify-content: space-between;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 110px;
+}

@@ -1,0 +1,7 @@
+.slider__image-block {
+  width: 100%;
+  position: relative;
+  margin: 0 0 50px 0;
+  padding: 0;
+  align-self: end;
+}

@@ -1,0 +1,13 @@
+.training__link {
+  padding: 0;
+  margin: 0 30px 0 0;
+  text-decoration: none;
+  color: #151515;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.training__link:hover {
+  opacity: 0.75;
+}
