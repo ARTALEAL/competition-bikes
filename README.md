@@ -1,4 +1,4 @@
 # competition-bikes
 
 **макет**
-[ссылка на макет] (https://www.figma.com/file/G3UWFlQmNtNs67751YiDH2/Month-of-Landings_external-link?node-id=2%3A7)
+[ссылка на макет](https://www.figma.com/file/G3UWFlQmNtNs67751YiDH2/Month-of-Landings_external-link?node-id=2%3A7)
