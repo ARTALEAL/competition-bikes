@@ -12,3 +12,5 @@
 
 **макет**
 [ссылка на макет](https://www.figma.com/file/G3UWFlQmNtNs67751YiDH2/Month-of-Landings_external-link?node-id=2%3A7)
+**сайт**
+[Competition-bikes](https://artaleal.github.io/competition-bikes/)
